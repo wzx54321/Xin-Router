@@ -1,4 +1,4 @@
-# XinRouter
+# Xin-Router
 Demo地址：https://github.com/wzx54321/XinRouter 
 
 [![](https://jitpack.io/v/wzx54321/xin-router.svg)](https://jitpack.io/#wzx54321/xin-router)  
@@ -51,5 +51,4 @@ public class MyProvider2 {
 
 
 
-
-# Xin-Router
+ 
