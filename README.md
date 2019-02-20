@@ -1,4 +1,6 @@
 # XinRouter
+Demo地址：https://github.com/wzx54321/XinRouter 
+
 [![](https://jitpack.io/v/wzx54321/xin-router.svg)](https://jitpack.io/#wzx54321/xin-router)  
 android组件化轻量级路由调用,支持组件件方法调用。  
 使用编译注解，绑定入口类和调用的方法。
